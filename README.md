@@ -1,2 +1,2 @@
 # Task-2.Codsoft
-# A python program for a calculator
+# A python program for to-do list
